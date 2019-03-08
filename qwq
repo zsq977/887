@@ -1,0 +1,38 @@
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta name="referrer" content="always" />
+<meta name="description" content="张慕童，昵称魔童，港星袁咏仪和张智霖的儿子。因长相酷似母亲所以也被港媒称为“男版靓靓”。母亲为了让魔童跟别的小孩一样享有平静快乐的童年而对其极力保护，不让他被媒体曝光，更是毫不犹豫地拒绝纷至沓来、希望魔童出镜的广告商。由于网上关于小魔童的新闻和图片少之又少，所以人们认为他是一个低调，斯文乖巧，帅气的星二代。...">
+<title>张慕童_百度百科</title>
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+<link rel="icon" sizes="any" mask href="//www.baidu.com/img/baidu.svg">
+
+<meta name="keywords" content="张慕童 张慕童家庭成员 张慕童家有趣事 张慕童父母意见">
+<meta name="image" content="https://bkssl.bdimg.com/cms/static/baike.png">
+<script type="text/javascript">
+  // 配置 PD 监控。
+  window.alogObjectConfig = {
+    product: '103',
+    page: '103_1',
+    speed: {
+      sample: '0.008'
+    },
+    monkey: {
+      sample: '1',
+      hid: '1533'
+    },
+    exception: { 
+      sample: '0.004'
+    },
+    feature: {
+      sample: '0.004'
+    },
+    csp: {
+      sample: '0.008',
+      'default-src': [
+        {match: '*.baidu.com,*.bdimg.com,localhost', target: 'Accept'},
+        {match: '*', target: 'Accept,Warn'}
+      ]
+    }
+  };
+
